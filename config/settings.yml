@@ -1,0 +1,4 @@
+plugins:
+  enable_markdown_fancy_lists:
+    default: true
+    client: true
